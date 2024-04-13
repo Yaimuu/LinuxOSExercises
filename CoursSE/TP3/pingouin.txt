@@ -1,0 +1,7 @@
+Execution du processus 0 !
+Execution du processus 1 !
+Execution du processus 2 !
+Execution du processus 3 !
+Execution du processus 4 !
+Execution du processus 5 !
+FIN !
